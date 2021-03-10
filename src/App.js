@@ -8,7 +8,7 @@ import {
 function App() {
   return (
     <div>
-      <h2>Hi This is AJ Auntor!</h2>
+      
     </div>
     
   );
